@@ -7,3 +7,4 @@ authors: ["HakanGulgen"]
 main: io.github.hakangulgen.forbiddenfoods.ForbiddenFoodsPlugin
 
 commands:
+  strikep:

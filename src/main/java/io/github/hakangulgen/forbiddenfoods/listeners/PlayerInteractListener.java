@@ -19,5 +19,6 @@ public class PlayerInteractListener implements Listener {
         }
         Player p = e.getPlayer();
         Strike.strikeLocation(p.getLocation());
+        //TODO ADD NEGATIVE POINTS FOR TRY EAT PORK
     }
 }
